@@ -36,3 +36,11 @@ Asignacion de variables
 x <- 86
 x
 ```
+
+
+
+# BOXPLOT
+
+[¿Cómo interpretar el boxplot?](https://platzi.com/clases/1445-fundamentos-r/16014-box-plot-y-su-interpretacion/)
+
+![boxplot](assets/boxplot-1.png)
